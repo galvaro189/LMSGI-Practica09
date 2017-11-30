@@ -1,3 +1,29 @@
+body {
+    background-color: black;
+}
 h2 {
     color: blue;
+    text-align: center;
+}
+h1 {
+    font-variant: small-caps;
+    text-align: center;
+    background-color: purple;
+}
+p {
+    text-align: center;
+    color: white;
+}
+strong {
+    color: red;
+}
+em {
+    color: darkred;
+}
+s {
+    color: grey;
+}
+h5 {
+    text-align: center;
+    color: chocolate;
 }
